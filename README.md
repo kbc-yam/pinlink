@@ -1,3 +1,2 @@
 
-
-https://kbc-yam.github.io/prompt/
+https://kbc-yam.github.io/pinlink/
