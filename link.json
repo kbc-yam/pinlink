@@ -1,32 +1,20 @@
 [
 	{
-		"label": "Paiza io",
-		"url": "https://paiza.io/ja/",
-		"position": "center",
-		"width": "80%"
-	},
-	{
 		"label": "プロンプトビルダー『プロビル』（プロンプト入力補助ツール）",
 		"url": "https://kbc-yam.github.io/ClickCopy/",
 		"position": "left",
-		"width": "50%"
-	},
-	{
-		"label": "ChatGPT",
-		"url": "https://openai.com/ja-JP/chatgpt/",
-		"position": "right",
-		"width": "50%"
+		"width": "33%"
 	},
 	{
 		"label": "Gemini",
 		"url": "https://gemini.google.com/app?hl=ja",
-		"position": "right",
-		"width": "50%"
+		"position": "center",
+		"width": "33%"
 	},
 	{
-		"label": "Google",
-		"url": "https://www.google.com/?hl=ja",
+		"label": "ログインページ",
+		"url": "https://yam.matrix.jp/login/",
 		"position": "right",
-		"width": "50%"
-	}
+		"width": "33%"
+	},
 ]
