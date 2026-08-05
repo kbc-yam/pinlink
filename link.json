@@ -12,8 +12,8 @@
 		"width": "33%"
 	},
 	{
-		"label": "ログインページ",
-		"url": "https://yam.matrix.jp/login/",
+		"label": "ターゲットページ(ログイン)",
+		"url": "https://kbc-yam.github.io/pinpage/",
 		"position": "right",
 		"width": "33%"
 	}
